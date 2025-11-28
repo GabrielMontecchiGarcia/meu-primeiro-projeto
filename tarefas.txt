@@ -1,1 +1,2 @@
 "-[]Praticar Git" 
+"-[]Estudar Git" 
